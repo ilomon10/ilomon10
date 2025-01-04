@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Imanuel Pundoko! </h1>
-<h3 align="center">Aspiring web developer from the Indonesia</h3>
+<h3 align="center">Aspiring web developer from Indonesia</h3>
 <br/>
 
-
-## 📊 My Github Stats
 <table align="center" width="100%"> 
   <tr> 
     <td align="center"> 
